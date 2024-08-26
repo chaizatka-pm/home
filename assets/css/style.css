@@ -1553,7 +1553,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     display: inline-block;
     padding: 10px 20px;
     background-color: #F8CE76; /* Цвет кнопки */
-    color: white;
+    color: #1E1E1F;
     text-decoration: none;
     border-radius: 5px;
     font-size: 18px;
