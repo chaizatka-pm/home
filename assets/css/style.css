@@ -1539,6 +1539,33 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .form-btn ion-icon { font-size: 18px; }
 
+  .booking-section {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .booking-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .booking-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #F8CE76; /* Цвет кнопки */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .booking-btn:hover {
+    background-color: #F7CA46; /* Цвет кнопки при наведении */
+  }
+  
+
+
 }
 
 
